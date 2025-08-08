@@ -89,8 +89,3 @@
   <img src="https://komarev.com/ghpvc/?username=Chadasaimanish&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Let's+connect+and+build+amazing+things!;Stay+curious+.+Keep+building+.+Enjoy+the+journey+🚀" />
-</p>
