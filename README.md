@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manish776&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Chadasaimanish&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
